@@ -1,0 +1,19 @@
+/*
+{
+    "id": "DBsNf_Z5NLUx5TZ4JsInGkj4qZnxbO_idYre9tbinIHXt_c",
+    "accountId": "lzMGYthowHxaMkPp8acK5tuM7NKPKzT0dKDbm8YGQqz0PAM",
+    "puuid": "li5saNwigEAbG_S2ferFcQ2V4RNWxW5yEtV1Ln5QaJnN1Z9Q0oN2hI9eyWVq1xak4vrNcbZRmb0tuw",
+    "name": "MreHEHE",
+    "profileIconId": 3808,
+    "revisionDate": 1701030153637,
+    "summonerLevel": 213
+}
+*/
+
+
+ apiKey: "AIzaSyAAR8FdHaYnkL6CghISqw96e0_0AM66lpI",
+  authDomain: "league-names.firebaseapp.com",
+  projectId: "league-names",
+  storageBucket: "league-names.appspot.com",
+  messagingSenderId: "1779176235",
+  appId: "1:1779176235:web:9e7df7c0992a5f0ede6b6e",
